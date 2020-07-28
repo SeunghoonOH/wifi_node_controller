@@ -11,8 +11,8 @@ import rospy
 
 from WatchDog import watch_dog
 
-from wifi_scan_py.msg import AddressRSSI
-from wifi_scan_py.msg import Fingerprint
+from wifi_scan_pub.msg import AddressRSSI
+from wifi_scan_pub.msg import Fingerprint
 
 
 def watcher():
