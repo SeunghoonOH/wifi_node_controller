@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="node_controller" type="NodeController.py" name="node_controllers" output="screen">
+    
+    
+  </node>
+</launch>
